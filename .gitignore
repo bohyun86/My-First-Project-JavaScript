@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project (JavaScript)/*
+!/My First Project (JavaScript)/task/
+/My First Project (JavaScript)/task/*
+!/My First Project (JavaScript)/task/task.js
